@@ -5,6 +5,9 @@
 - How to reach me @dhyaneshvark1805@gmail.com
 - Pronouns: he
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dhyanesh18.Dhyanesh18)
+
+
 PORTFOLIO : https://dhyanesh18.github.io/Portfolio-Website/
 
 ### 🧩 Tech I am familiar and worked with
