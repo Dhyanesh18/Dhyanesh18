@@ -36,7 +36,6 @@
 
 ### GitHub Stats  
 ![Dhyaneshvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhyanesh18&show_icons=true&theme=tokyonight&hide_rank=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyanesh18&layout=compact&theme=tokyonight)
 
 ---
 
