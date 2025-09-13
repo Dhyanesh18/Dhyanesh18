@@ -63,7 +63,7 @@
 ---
 
 ### GitHub Stats  
-![Dhyaneshvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhyanesh18&show_icons=true&theme=tokyonight&hide_rank=true)  
+![Dhyaneshvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhyanesh18&show_icons=true&theme=tokyonight)  
 
 ---
 
