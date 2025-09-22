@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Dhyaneshvar K  
 
-### *AI/ML Enthusiast | Data Science Explorer | LLM & Agents Learner*  
+### *AI/ML and Data Science Enthusiast | LLM & Agents Learner*  
 
 #### About Me  
 - I’m currently learning and working with **LLMs and Agents**  
