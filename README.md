@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Dhyaneshvar K  
+## Hey there! I'm Dhyaneshvar K  
 
 ### *AI/ML & Data Science Enthusiast | LLM & Agents Learner*  
 
