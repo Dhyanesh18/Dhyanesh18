@@ -1,74 +1,75 @@
-## Hey there! I'm Dhyaneshvar K  
+## Hey there! I'm Dhyaneshvar K
 
-### *AI/ML & Data Science Enthusiast | LLM & Agents Learner*  
+### *AI/ML & Data Science Enthusiast | LLM & Agents Learner*
 
-#### About Me  
-- I’m currently learning and working with **LLMs and Agents**  
-- I’m looking to collaborate on **AI/ML projects**  
-- Reach me at: **dhyaneshvark1805@gmail.com**  
-- Pronouns: **he**  
+#### About Me
+
+* I’m currently learning and working with **LLMs and Agents**
+* I’m looking to collaborate on **AI/ML projects**
+* Reach me at: **[dhyaneshvark1805@gmail.com](mailto:dhyaneshvark1805@gmail.com)**
+* Pronouns: **he/him**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dhyanesh18.Dhyanesh18)
 
-**PORTFOLIO**: [dhyaneshvar.tech](https://dhyaneshvar.tech)  
+**PORTFOLIO**: [dhyaneshvar.tech](https://dhyaneshvar.tech)
 
 ---
 
-### Tech I am familiar and worked with  
-
 ### AI/ML & Data Science
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?logo=seaborn&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45"/>
+</p>
 
-![Transformers](https://img.shields.io/badge/-Transformers-000000?logo=transformers&logoColor=white)
-![TikToken](https://img.shields.io/badge/-TikToken-6f42c1)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-008080)
-![NLP](https://img.shields.io/badge/-NLP-FF6F00)
-![LLMs](https://img.shields.io/badge/-LLMs-6f42c1)
-![RAG Systems](https://img.shields.io/badge/-RAG%20Systems-FF4500)
-![LangChain](https://img.shields.io/badge/-LangChain-FF9900)  
-
-![LangGraph](https://img.shields.io/badge/-LangGraph-00CFFF)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B)
-![Stable Baselines3](https://img.shields.io/badge/-Stable%20Baselines3-4B8BBE)
-![ViT](https://img.shields.io/badge/-Vision%20Transformer-FF69B4)
-![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-FF5C00)
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-FF4500?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-FF9900?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-00CFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/W%26B-FF5C00?style=flat-square&logo=weightsandbiases&logoColor=white"/>
+</p>
 
 ---
 
 ### Web & DevOps
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-11CDEF)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
----
-
-### GitHub Stats  
-![Dhyaneshvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhyanesh18&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+</p>
 
 ---
 
-### Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyaneshvar-k)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:dhyaneshvark1805@gmail.com)  
+### GitHub Stats
+
+![Dhyaneshvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhyanesh18\&show_icons=true\&theme=tokyonight)
 
 ---
+
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhyaneshvar-k">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:dhyaneshvark1805@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+  </a>
+</p>
